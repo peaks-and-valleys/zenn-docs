@@ -18,6 +18,8 @@
   "homepage": "https://github.com/peaks-and-valleys/zenn-docs#readme",
   "description": "",
   "dependencies": {
+    "textlint": "^15.2.1",
+    "textlint-rule-preset-japanese": "^10.0.4",
     "zenn-cli": "^0.2.1"
   }
 }
