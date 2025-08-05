@@ -1,6 +1,6 @@
 ---
 title: "ローカル LLM と GUI で対話して、ウェブ検索もできるようにする (Ollama / Open WebUI / SearXNG)"
-emoji: "🌊"
+emoji: "🗣️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [llm, ローカルllm, ollama, openwebui]
 published: true
